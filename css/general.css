@@ -39,7 +39,7 @@ header {
 
 .logo {
     display: block;
-    width: 5rem;
+    width: 4rem;
     margin: 1.5rem 5%;
 }
 
@@ -121,7 +121,7 @@ article {
 }
 
 .bucket1 figcaption {
-    background-color:  white; /* Visual Aid */
+    background-color:  grey; /* Visual Aid */
 }
 
 .bottomlogo{
@@ -132,7 +132,7 @@ article {
 }
 
 .twitter{
-    height: 2.7rem;
+    height: 7rem;
     width:auto;
     margin:-12rem 87%;
     float:left;
