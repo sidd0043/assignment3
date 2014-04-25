@@ -79,6 +79,8 @@ header {
     overflow:hidden;
     background-image: url(../images/fake-buggati.jpg);
     background-size: 100%;
+    background-repeat:no-repeat;
+    height:20rem;
     
 }
 
